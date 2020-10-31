@@ -1,6 +1,6 @@
-function Bioregen_Model (t_max, dt, N_radial_intervals, surface_diffusion_coeff, NH4_initial, Na_initial,NO2_initial,NO3_initial)
+function Bioregen_Model (t_max, dt, N_radial_intervals, surface_diffusion_coeff, NH4_initial, Na_initial, NO2_initial, NO3_initial)
 
-% To Run type: Bioregen_Model(200,0.01,50,0.0019,80.13,24.7,0.27,0.007)
+%  To Run type: Bioregen_Model(200,0.01,50,0.0019,80.13,24.7,0.27,0.007)
 %  t_max -- time period for the simulation runs
 %  dt -- time step used in finite difference method
 %  N_radial_intervals -- spatial discretization of chabazite
