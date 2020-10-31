@@ -15,5 +15,8 @@ Best-fit values of Q and K come from equilibrium isotherm
 experiments performed by Veronica Aponte-Morales and analyzed by
 Karl Payne.
 
+The biological process is a two-step nitrification process
+described by an Andrew's model to account for inhibition 
+
 The solution of the differential equations is a finite difference method
 
