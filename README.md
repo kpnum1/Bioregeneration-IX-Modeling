@@ -8,15 +8,11 @@ and modeling studies. Environmental science & technology, 52(7), 4090-4098."
 
 The Matlab script Bioregen_model.m implements a homogeneous surface diffusion model (HSDM)
 which predicts the kinetics of IX between NH4+ and Na+
-At the surface of the chabazite (solid-water interface), assume
-an "ion exchange isotherm" applies:
-q = Q*K*[NH4+] / {[Na+] + K*[NH4+]}
-Best-fit values of Q and K come from equilibrium isotherm
-experiments performed by Veronica Aponte-Morales and analyzed by
-Karl Payne.
-
 The biological process is a two-step nitrification process
 described by an Andrew's model to account for inhibition 
 
 The solution of the differential equations is a finite difference method
+& the plots are for a bioreactor amended with chabazite
+Figure 1: NH4+ and Na+  concentrations with time
+Figure 2: NO2- and NO3- concentrations with time
 
